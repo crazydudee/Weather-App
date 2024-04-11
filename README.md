@@ -1,6 +1,6 @@
 # Weather-App
 
-A Weather App that shows real time weather forecast of next 12 hours.
+A Weather App made using Flutter that shows real time weather forecast of next 12 hours.
 
 ## Getting Started
 
