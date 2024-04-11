@@ -1,6 +1,6 @@
-# weather_app
+# Weather-App
 
-A new Flutter project.
+A Weather App that shows real time weather forecast of next 12 hours.
 
 ## Getting Started
 
